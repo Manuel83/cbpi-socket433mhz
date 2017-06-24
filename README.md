@@ -1,4 +1,4 @@
-# 433MHz Socket Acotor Pluign
+# 433MHz Socket Actor Plugin
 
 Just download via CraftBeerPi AddOn page.
 
