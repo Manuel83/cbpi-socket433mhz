@@ -4,7 +4,7 @@ try:
     import RPi.GPIO as GPIO
     GPIO.setmode(GPIO.BCM)
 except Exception as e:
-    print e
+    print(e)
     pass
 
 from modules import cbpi
